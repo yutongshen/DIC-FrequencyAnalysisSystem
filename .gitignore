@@ -1,0 +1,10 @@
+*.X
+*.swp
+*.bak
+*.mti
+*.mpf
+*.wlf
+*.log
+.tmp/
+work/
+INCA_libs/

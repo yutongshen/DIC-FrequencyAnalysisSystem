@@ -1,6 +1,6 @@
-# Digital IC Design Homework
+# Digital IC Design
 
-## DIC HW6 - Frequency Analysis System
+## Frequency Analysis System
 
 ## AUTHORS
 [Yu-Tong Shen](https://github.com/yutongshen/)
